@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://discord.gg/darknessprojectooo"><img src="./assets/discord-button.svg" alt="Discord" height="68" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/bf2askDmWh"><img src="./assets/discord-button.svg" alt="Discord" height="68" /></a>&nbsp;&nbsp;
 <a href="https://t.me/darknessproject"><img src="./assets/telegram-button.svg" alt="Telegram" height="68" /></a>
 
 </div>
