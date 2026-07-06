@@ -8,14 +8,8 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Приєднатись-450064?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.gg/darknessprojectooo)
-[![Telegram](https://img.shields.io/badge/Telegram-Канал-450064?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c1c1c)](https://t.me/darknessproject)
+<a href="https://discord.gg/darknessprojectooo"><img src="./assets/discord-button.svg" alt="Discord" height="68" /></a>&nbsp;&nbsp;
+<a href="https://t.me/darknessproject"><img src="./assets/telegram-button.svg" alt="Telegram" height="68" /></a>
 
 </div>
-
-<br/>
-
-## Про проєкт
-
-**DarknessProject** — власна панель хостингу для оренди ігрових серверів (SCP:SL, CS 1.6/CSS, Minecraft, Terraria, Unturned, DayZ), VPS/VDS та веб-сайтів. Усе працює на власних Docker-образах, з ізоляцією мереж і повним контролем над інфраструктурою — без сторонніх рішень.
 
